@@ -1,11 +1,11 @@
 # SoundSensor-Winter-Project
 
-Software component of project to develop a sound sensor to measure the sound scape around Western University's campus.
+The software component of project to develop a sound sensor aimed to measure the sound scape around Western University's campus.
 Components:
 - ESP-32 WROOM
 - ICS-43434 Microphone
 - MircoSD Module (FAT32)
-- DS1203 Real-TimemClock
+- DS1203 Real-TimeClock
 
 Languages/Tools: C++, Arduino Frameowkr, PlatformIO, Vs Code
 
